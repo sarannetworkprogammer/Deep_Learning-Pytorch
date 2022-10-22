@@ -1,7 +1,6 @@
 # Ml_rad
 Machinelearning by Dr.Rad
 
-
 Linear Regression using Pytorch
 Logistic Regression
 MNIST Dataset 
