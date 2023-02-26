@@ -5,3 +5,7 @@ Linear Regression using Pytorch.
 Logistic Regression.  
 MNIST Dataset.   
 CIFAR10 , with 2 hiddenlayers , k-fold cross validation.  
+Dataset_Transformers
+SVM  
+K-neighbours  
+Softmax, Crossentropy  
