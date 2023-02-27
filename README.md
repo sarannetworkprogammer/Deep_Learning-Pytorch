@@ -1,9 +1,11 @@
 # Ml_rad
 #Machinelearning by Dr.Rad  
 
-## This repository contains Google Colab notebooks that demonstrate how to implement various machine learning models and techniques using PyTorch. The models covered in this repository include:  
+## This repository contains Google Colab notebooks that demonstrate how to implement various machine learning models and techniques using PyTorch. 
 
-#### Linear Regression  
+### The models covered in this repository include:  
+
+##### Linear Regression  
 Logistic Regression  
 Neural Networks  
 Convolutional Neural Networks (CNNs)  
