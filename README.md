@@ -5,7 +5,7 @@
 
 ### The models covered in this repository include:  
 
-##### Linear Regression  
+###### Linear Regression  
 #####  Regression  
 ##### Neural Networks  
 ##### Convolutional Neural Networks (CNNs)  
