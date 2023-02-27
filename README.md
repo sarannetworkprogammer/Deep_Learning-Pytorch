@@ -1,5 +1,5 @@
-# Ml_rad
-#Machinelearning by Dr.Rad  
+# Machinelearning by Dr.Rad  
+
 
 ## This repository contains Google Colab notebooks that demonstrate how to implement various machine learning models and techniques using PyTorch. 
 
