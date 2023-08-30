@@ -1,7 +1,7 @@
 # Machinelearning by Dr.Rad  
 
 
-## This repository contains Google Colab notebooks that demonstrate how to implement various machine learning models and techniques using PyTorch. 
+## This repository contains Google Colab notebooks that demonstrate how to implement various machine learning & Deep learning models and techniques using PyTorch. 
 
 ### The models covered in this repository include:  
 
